@@ -14,4 +14,10 @@ Haskell should be capable, deadpendencies was recently built in Haskell and is i
 
 ## Research
 
+### Academic
+
 Organize https://github.com/svanderbleek/cqrs-hypergraph-spec-propagators around this
+
+### Industry
+
+* https://snyk.io/product/open-source-security-management/

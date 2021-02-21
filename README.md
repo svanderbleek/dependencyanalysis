@@ -21,3 +21,4 @@ Organize https://github.com/svanderbleek/cqrs-hypergraph-spec-propagators around
 ### Industry
 
 * https://snyk.io/product/open-source-security-management/
+* https://deadpendency.com/
